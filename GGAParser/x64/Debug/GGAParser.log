@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  GGAParser.cpp
+D:\VisualStudioCommunityProjects\GGAParser\GGAParser\GGAParser.cpp(53,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudioCommunityProjects\GGAParser\GGAParser\GGAParser.cpp(55,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudioCommunityProjects\GGAParser\GGAParser\GGAParser.cpp(107,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+     Creating library D:\VisualStudioCommunityProjects\GGAParser\x64\Debug\GGAParser.lib and object D:\VisualStudioCommunityProjects\GGAParser\x64\Debug\GGAParser.exp
+  GGAParser.vcxproj -> D:\VisualStudioCommunityProjects\GGAParser\x64\Debug\GGAParser.dll
